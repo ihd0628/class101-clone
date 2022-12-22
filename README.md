@@ -28,7 +28,7 @@
 
 > Front-End : React.js, styled component, 
 > Back-End : My SQL, Node.js
-> Common : RESTful API, git, GitHub
+> Common : HTTP API, git, GitHub
 
 ### **구현 기능**
 
