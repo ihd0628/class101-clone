@@ -67,7 +67,7 @@
     - MediaRecorder 메소드를 사용한 비디오 화면 녹화기능 구현
     - createObjectURL 을 사용하여 녹화한 비디오 저장 및 다운로드 기능 구현 
 - 강의 리스트 재생 페이지 
-    - HTTP API를 이용한 강의 정보 읽기
+    - HTTP API를 이용한 강의 목록 정보 렌더링
     - video 태그를 이용한 강의 동영상 재생 기능 구현
     
     ## **Reference**
